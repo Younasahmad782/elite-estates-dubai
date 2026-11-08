@@ -49,8 +49,9 @@ Poppins, Amiri, Tajawal) all live in this folder. No build step, no backend, no 
 
 - All 12 properties, 3 off-plan projects, testimonials and statistics are
   **fictional demonstration content**, labelled as such on the site.
-- The WhatsApp number **+971 50 123 4567** and the email
-  `hello@eliteestates-dubai.demo` are **demo contact details**, not a real agency.
+- The WhatsApp number **+92 345 7305226** is the developer's real number —
+  messages from the floating button, property enquiries and the call button all
+  go to it. The email `hello@eliteestates-dubai.demo` is still a demo address.
 - Forms (enquiry, booking, contact, newsletter, list-your-property) are
   **frontend-only demos** — nothing is sent anywhere; no backend is connected.
 
